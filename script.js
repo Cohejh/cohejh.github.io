@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["make immersive quality games.", "code useful software.", "create modern websites for people.", "am obssesed with muffins."],
+        strings: ["make immersive quality games.", "code useful software.", "create modern websites for people."],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
