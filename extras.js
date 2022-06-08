@@ -146,11 +146,11 @@ class Utilities {
 
           blockType: Scratch.BlockType.REPORTER,
 
-          text: 'get content from [URL]',
+          text: 'get HTML code from [URL]',
           arguments: {
             URL: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'https://translate-service.scratch.mit.edu/translate?language=eo&text=hello'
+              defaultValue: 'https://cohejh.com'
             }
           }
         },
